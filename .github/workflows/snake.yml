@@ -1,8 +1,8 @@
-name: Generate Snake Animation
+name: Generate Profile Assets
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,15 +10,16 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
-      - name: Generate Snake Animation (Light)
+      # ── Snake Animation ──
+      - name: Generate Snake (Light)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-snake.svg
 
-      - name: Generate Snake Animation (Dark)
+      - name: Generate Snake (Dark)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -26,6 +27,23 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # ── Stats Summary Cards ──
+      - name: Generate Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Copy stats cards to dist
+        run: |
+          mkdir -p dist/stats-dark dist/stats-light
+          cp profile-summary-card-output/tokyonight/*.svg dist/stats-dark/ 2>/dev/null || true
+          cp profile-summary-card-output/default/*.svg dist/stats-light/ 2>/dev/null || true
+          echo "=== dist contents ==="
+          find dist -type f | sort
+
+      # ── Push everything ──
       - name: Push to dist branch
         uses: crazy-max/ghaction-github-pages@v4
         with:

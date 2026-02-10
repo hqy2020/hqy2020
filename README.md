@@ -102,13 +102,21 @@ Actively studying and contributing to cutting-edge 3D vision work:
 ## GitHub Stats
 
 <div align="center">
+
+<!-- Profile Details (full width) -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/0-profile-details.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-light/0-profile-details.svg" />
+<img src="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/0-profile-details.svg" alt="Profile Details" width="100%" />
+</picture>
+
 <table>
 <tr>
 <td>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hqy2020&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hqy2020&show_icons=true&theme=default&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api?username=hqy2020&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/3-stats.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-light/3-stats.svg" />
+<img src="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/3-stats.svg" alt="GitHub Stats" />
 </picture>
 </td>
 <td>
@@ -120,13 +128,14 @@ Actively studying and contributing to cutting-edge 3D vision work:
 </td>
 <td>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hqy2020&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hqy2020&layout=compact&theme=default&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hqy2020&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/2-most-commit-language.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-light/2-most-commit-language.svg" />
+<img src="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/2-most-commit-language.svg" alt="Top Languages" />
 </picture>
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
@@ -164,6 +173,14 @@ Actively studying and contributing to cutting-edge 3D vision work:
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hqy2020&theme=tokyo-night&hide_border=true&bg_color=00000000" />
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hqy2020&theme=minimal&hide_border=true" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hqy2020&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Activity Graph" />
+</picture>
+
+<br/>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/4-productive-time.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-light/4-productive-time.svg" />
+<img src="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/4-productive-time.svg" alt="Productive Time" />
 </picture>
 </div>
 
