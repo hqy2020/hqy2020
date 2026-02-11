@@ -120,13 +120,6 @@ Classic 3D vision & medical imaging papers I studied during my research. Now foc
 
 <div align="center">
 
-<!-- GitHub Readme Stats -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hqy2020&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hqy2020&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api?username=hqy2020&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub Stats Card" />
-</picture>
-
 <!-- Profile Details (full width) -->
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/0-profile-details.svg" />
