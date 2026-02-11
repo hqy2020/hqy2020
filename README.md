@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=220&section=header&text=Hi%20there%20%F0%9F%91%8B%20I'm%20Hu%20Qiyun&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Tongji%20BSc%20%E2%86%92%20ZJU%20MSc%20%7C%20Medical%20AI%20%7C%20Agent%20%2B%20Java&descSize=16&descColor=ffffff&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=220&section=header&text=Hi%20there%20%F0%9F%91%8B%20I'm%20Hu%20Qiyun&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Tongji%20%E2%86%92%20ZJU%20%7C%20Medical%20AI%20%7C%20Agent%20%2B%20Java&descSize=16&descColor=ffffff&descAlignY=55" />
 
 <div align="center">
 
@@ -12,11 +12,11 @@
 
 ## About Me
 
-- 🎓 **Software Engineering** BSc @ [Tongji University](https://www.tongji.edu.cn/) → MSc @ [Zhejiang University](https://www.zju.edu.cn/)
-- 🔬 Research: **Medical 2D Semantic Segmentation** & **3D Gaussian Splatting**
-- 📄 Published at **IEEE BIBM 2024** & **AAAI 2025**
+- 🎓 Software Engineering @ [Tongji University](https://www.tongji.edu.cn/) → [Zhejiang University](https://www.zju.edu.cn/)
+- 🔬 Research: Medical 2D Semantic Segmentation & 3D Gaussian Splatting
+- 📄 Published at IEEE BIBM 2024 & AAAI 2025
 - 💻 Agent + Java developer, AI enthusiast
-- 🏢 Internships: **NIO (蔚来)** · **SAP (思爱普)** · **Alibaba Cloud (阿里云)**
+- 🏢 Internships: NIO (蔚来) · SAP (思爱普) · Alibaba Cloud (阿里云)
 - 🌱 Exploring 3DGS for medical imaging reconstruction
 
 ---
