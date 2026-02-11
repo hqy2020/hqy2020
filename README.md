@@ -16,7 +16,7 @@
 - 🔬 Research: **Medical 2D Semantic Segmentation** & **3D Gaussian Splatting**
 - 📄 Published at **IEEE BIBM 2024** & **AAAI 2025**
 - 💻 Agent + Java developer, AI enthusiast
-- 🏢 Internships: **NIO (蔚来)** · **SAP** · **Alibaba Cloud (阿里云)**
+- 🏢 Internships: **NIO (蔚来)** · **SAP (思爱普)** · **Alibaba Cloud (阿里云)**
 - 🌱 Exploring 3DGS for medical imaging reconstruction
 
 ---
@@ -48,7 +48,7 @@ Junao Shen, **Qiyun Hu**, Tian Feng, Xinyu Wang, Hui Cui, Sensen Wu, Wei Zhang
 
 **SESAME: Toward Medical Image Segmentation via Foundation Model-assisted Semi-supervised Learning**
 
-Qiyun Hu, Junao Shen, Jinkang Ji, Xinyu Wang, Tian Feng, Hui Cui
+**Qiyun Hu**, Junao Shen, Jinkang Ji, Xinyu Wang, Tian Feng, Hui Cui
 
 *IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2024*
 
@@ -206,6 +206,12 @@ Actively studying cutting-edge 3D vision & medical imaging:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hqy200091@163.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/启云-胡-394b80223/)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://openingcloud-blog.hqy200091.workers.dev/)
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/hqy2020/hqy2020/main/assets/wechat-qr.jpg" alt="WeChat" width="180" />
+
+*Scan to add me on WeChat*
 
 </div>
 
