@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%92%BB+Agent+%2B+Java+%7C+AI+%7C+Software+Engineer;%F0%9F%93%96+Obsidian+%7C+Second+Brain+%7C+Knowledge+Management;%F0%9F%8E%93+Tongji+University+%E2%86%92+Zhejiang+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%92%BB+Agent+%2B+Java+%7C+AI+%7C+Software+Engineer;%F0%9F%93%96+Obsidian+%7C+Second+Brain+%7C+PKM;%F0%9F%8E%93+Tongji+University+%E2%86%92+Zhejiang+University)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hqy2020&style=flat-square&color=764ba2)](https://github.com/hqy2020)
 
@@ -76,8 +76,8 @@ Personal blog built with **Astro 5 + Tailwind CSS** — zero JS by default, blaz
 </td>
 <td width="50%" valign="top">
 
-### 🧬 Past Research
-Previously explored 3D vision & medical imaging. Now focused on Java backend & AI applications.
+### 📚 Papers I've Studied
+Classic 3D vision & medical imaging papers I studied during my research. Now focused on Java backend & AI applications.
 - [R2_Gaussian](https://github.com/hqy2020/r2_gaussian) — Radiative 3DGS (NeurIPS 2024)
 - [X-Gaussian](https://github.com/hqy2020/X-Gaussian) — X-ray Novel View Synthesis (ECCV 2024)
 - [SAX-NeRF](https://github.com/hqy2020/SAX-NeRF) — Sparse-View X-ray 3D (CVPR 2024)
