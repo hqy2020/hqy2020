@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=220&section=header&text=Hi%20there%20%F0%9F%91%8B%20I'm%20Hu%20Qiyun&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=ZJU%20%7C%20Medical%20AI%20%7C%20Full-Stack%20Developer&descSize=16&descColor=ffffff&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=220&section=header&text=Hi%20there%20%F0%9F%91%8B%20I'm%20Hu%20Qiyun&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Tongji%20BSc%20%E2%86%92%20ZJU%20MSc%20%7C%20Medical%20AI%20%7C%20Agent%20%2B%20Java&descSize=16&descColor=ffffff&descAlignY=55" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%94%AC+Medical+Image+Segmentation+%7C+3D+Vision;%F0%9F%92%BB+Java+%7C+Spring+Boot+%7C+React+%7C+Astro;%F0%9F%8E%93+Zhejiang+University+%E2%80%A2+Software+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%94%AC+Medical+Image+Segmentation+%7C+3D+Gaussian+Splatting;%F0%9F%92%BB+Agent+%2B+Java+%7C+Spring+Boot+%7C+AI+Enthusiast;%F0%9F%8E%93+Tongji+University+%E2%86%92+Zhejiang+University+%E2%80%A2+Software+Engineering)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hqy2020&style=flat-square&color=764ba2)](https://github.com/hqy2020)
 
@@ -12,17 +12,34 @@
 
 ## About Me
 
-- :mortar_board: **Software Engineering** @ [Zhejiang University](https://www.zju.edu.cn/)
-- :microscope: Research interests: **Medical Image Segmentation**, Semi-supervised Learning, Foundation Models
-- :page_facing_up: Published at **IEEE BIBM 2024** — SESAME
-- :computer: Full-stack developer with experience in Java / Spring Boot / React / Astro
-- :seedling: Currently exploring **3D Gaussian Splatting** and **NeRF** techniques
+- 🎓 **Software Engineering** BSc @ [Tongji University](https://www.tongji.edu.cn/) → MSc @ [Zhejiang University](https://www.zju.edu.cn/)
+- 🔬 Research: **Medical 2D Semantic Segmentation** & **3D Gaussian Splatting**
+- 📄 Published at **IEEE BIBM 2024** & **AAAI 2025**
+- 💻 Agent + Java developer, AI enthusiast
+- 🏢 Internships: **NIO (蔚来)** · **SAP** · **Alibaba Cloud (阿里云)**
+- 🌱 Exploring 3DGS for medical imaging reconstruction
 
 ---
 
 ## Selected Publications
 
 <table>
+<tr>
+<td width="30%" align="center">
+<img src="https://img.shields.io/badge/AAAI-2025-FF6F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHRleHQgeD0iNCIgeT0iMTgiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IndoaXRlIj5BSTwvdGV4dD48L3N2Zz4=&logoColor=white" />
+</td>
+<td width="70%">
+
+**In2NeCT: Inter-class and Intra-class Neural Collapse Tuning for Semantic Segmentation of Imbalanced Remote Sensing Images**
+
+Junao Shen, **Qiyun Hu**, Tian Feng, Xinyu Wang, Hui Cui, Sensen Wu, Wei Zhang
+
+*AAAI Conference on Artificial Intelligence, 2025*
+
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobeacrobatreader)](https://www.semanticscholar.org/paper/748a911623b4d1ba787acdb76fabac50f516916d)
+
+</td>
+</tr>
 <tr>
 <td width="30%" align="center">
 <img src="https://img.shields.io/badge/IEEE%20BIBM-2024-2196F3?style=for-the-badge&logo=ieee&logoColor=white" />
@@ -35,7 +52,7 @@ Qiyun Hu, Junao Shen, Jinkang Ji, Xinyu Wang, Tian Feng, Hui Cui
 
 *IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2024*
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobeacrobatreader)](https://researchr.org/publication/HuSJWF024)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobeacrobatreader)](https://doi.org/10.1109/BIBM62325.2024.10822723)
 
 </td>
 </tr>
@@ -49,20 +66,24 @@ Qiyun Hu, Junao Shen, Jinkang Ji, Xinyu Wang, Tian Feng, Hui Cui
 <tr>
 <td width="50%" valign="top">
 
-### :globe_with_meridians: [OpeningCloud Blog](https://github.com/hqy2020/openingcloud-blog)
+### 🌐 [OpeningCloud Blog](https://openingcloud-blog.hqy200091.workers.dev/)
 Personal blog built with **Astro 5 + Tailwind CSS** — zero JS by default, blazing fast static site deployed on Cloudflare Pages.
 
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
+[📖 Source Code](https://github.com/hqy2020/openingcloud-blog)
+
 </td>
 <td width="50%" valign="top">
 
-### :dna: Research Explorations
-Actively studying and contributing to cutting-edge 3D vision work:
-- [R2_Gaussian](https://github.com/hqy2020/r2_gaussian) — Radiative Gaussian Splatting (NeurIPS 2024)
+### 🧬 Research Explorations
+Actively studying cutting-edge 3D vision & medical imaging:
+- [R2_Gaussian](https://github.com/hqy2020/r2_gaussian) — Radiative 3DGS (NeurIPS 2024)
 - [X-Gaussian](https://github.com/hqy2020/X-Gaussian) — X-ray Novel View Synthesis (ECCV 2024)
-- [SSL4MIS](https://github.com/hqy2020/SSL4MIS) — Semi-supervised Learning for Medical Imaging
+- [SAX-NeRF](https://github.com/hqy2020/SAX-NeRF) — Sparse-View X-ray 3D (CVPR 2024)
+- [x2-gaussian](https://github.com/hqy2020/x2-gaussian) — 4D Radiative 3DGS (ICCV 2025)
+- [SSL4MIS](https://github.com/hqy2020/SSL4MIS) — Semi-supervised Medical Imaging
 
 </td>
 </tr>
@@ -84,9 +105,7 @@ Actively studying and contributing to cutting-edge 3D vision work:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Tools & Infra**
@@ -121,20 +140,36 @@ Actively studying and contributing to cutting-edge 3D vision work:
 </td>
 <td>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hqy2020&theme=tokyonight&hide_border=true&background=00000000" />
-<source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=hqy2020&theme=default&hide_border=true" />
-<img src="https://streak-stats.demolab.com?user=hqy2020&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/1-repos-per-language.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-light/1-repos-per-language.svg" />
+<img src="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/1-repos-per-language.svg" alt="Repos per Language" />
 </picture>
 </td>
+</tr>
+<tr>
 <td>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/2-most-commit-language.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-light/2-most-commit-language.svg" />
-<img src="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/2-most-commit-language.svg" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/2-most-commit-language.svg" alt="Most Commit Language" />
+</picture>
+</td>
+<td>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/4-productive-time.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-light/4-productive-time.svg" />
+<img src="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/4-productive-time.svg" alt="Productive Time" />
 </picture>
 </td>
 </tr>
 </table>
+
+<!-- Streak Stats -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hqy2020&theme=tokyonight&hide_border=true&background=00000000" />
+<source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=hqy2020&theme=default&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=hqy2020&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+</picture>
 
 </div>
 
@@ -152,20 +187,6 @@ Actively studying and contributing to cutting-edge 3D vision work:
 
 ---
 
-<details>
-<summary><b>:trophy: GitHub Trophies</b></summary>
-<br/>
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=hqy2020&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=hqy2020&theme=flat&no-frame=true&column=6&margin-w=10" />
-<img src="https://github-profile-trophy.vercel.app/?username=hqy2020&theme=tokyonight&no-frame=true&column=6&margin-w=10" alt="GitHub Trophies" />
-</picture>
-</div>
-</details>
-
----
-
 ## Activity Graph
 
 <div align="center">
@@ -173,14 +194,6 @@ Actively studying and contributing to cutting-edge 3D vision work:
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hqy2020&theme=tokyo-night&hide_border=true&bg_color=00000000" />
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hqy2020&theme=minimal&hide_border=true" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hqy2020&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Activity Graph" />
-</picture>
-
-<br/>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/4-productive-time.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-light/4-productive-time.svg" />
-<img src="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/4-productive-time.svg" alt="Productive Time" />
 </picture>
 </div>
 
@@ -190,11 +203,9 @@ Actively studying and contributing to cutting-edge 3D vision work:
 
 ### Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-<!-- Add your social links below -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) -->
-<!-- [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-blog.com) -->
-<!-- [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID) -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hqy200091@163.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/启云-胡-394b80223/)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://openingcloud-blog.hqy200091.workers.dev/)
 
 </div>
 
