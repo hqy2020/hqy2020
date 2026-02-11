@@ -76,13 +76,12 @@ Personal blog built with **Astro 5 + Tailwind CSS** — zero JS by default, blaz
 </td>
 <td width="50%" valign="top">
 
-### 🧬 Research Explorations
-Actively studying cutting-edge 3D vision & medical imaging:
+### 🧬 Past Research
+Previously explored 3D vision & medical imaging. Now focused on Java backend & AI applications.
 - [R2_Gaussian](https://github.com/hqy2020/r2_gaussian) — Radiative 3DGS (NeurIPS 2024)
 - [X-Gaussian](https://github.com/hqy2020/X-Gaussian) — X-ray Novel View Synthesis (ECCV 2024)
 - [SAX-NeRF](https://github.com/hqy2020/SAX-NeRF) — Sparse-View X-ray 3D (CVPR 2024)
 - [x2-gaussian](https://github.com/hqy2020/x2-gaussian) — 4D Radiative 3DGS (ICCV 2025)
-- [SSL4MIS](https://github.com/hqy2020/SSL4MIS) — Semi-supervised Medical Imaging
 
 </td>
 </tr>
