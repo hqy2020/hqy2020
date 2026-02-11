@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%94%AC+Medical+Image+Segmentation+%7C+3D+Gaussian+Splatting;%F0%9F%92%BB+Agent+%2B+Java+%7C+Spring+Boot+%7C+AI+Enthusiast;%F0%9F%8E%93+Tongji+University+%E2%86%92+Zhejiang+University+%E2%80%A2+Software+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%92%BB+Agent+%2B+Java+%7C+Spring+Boot+%7C+Passionate+about+AI;%F0%9F%93%84+Published+at+IEEE+BIBM+2024+%26+AAAI+2025;%F0%9F%8E%93+Tongji+University+%E2%86%92+Zhejiang+University+%E2%80%A2+Software+Engineering)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hqy2020&style=flat-square&color=764ba2)](https://github.com/hqy2020)
 
@@ -13,11 +13,10 @@
 ## About Me
 
 - 🎓 Software Engineering @ [Tongji University](https://www.tongji.edu.cn/) → [Zhejiang University](https://www.zju.edu.cn/)
-- 🔬 Research: Medical 2D Semantic Segmentation & 3D Gaussian Splatting
+- 🔬 Past research: Medical Image Segmentation & 3D Gaussian Splatting
 - 📄 Published at IEEE BIBM 2024 & AAAI 2025
-- 💻 Agent + Java developer, AI enthusiast
+- 💻 Agent + Java developer, passionate about AI
 - 🏢 Internships: NIO (蔚来) · SAP (思爱普) · Alibaba Cloud (阿里云)
-- 🌱 Exploring 3DGS for medical imaging reconstruction
 
 ---
 
