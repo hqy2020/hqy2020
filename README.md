@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%92%BB+Agent+%2B+Java+%7C+Spring+Boot+%7C+Passionate+about+AI;%F0%9F%93%84+Published+at+IEEE+BIBM+2024+%26+AAAI+2025;%F0%9F%8E%93+Tongji+University+%E2%86%92+Zhejiang+University+%E2%80%A2+Software+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=%F0%9F%92%BB+Agent+%2B+Java+%7C+AI+%7C+Software+Engineer;%F0%9F%93%96+Obsidian+%7C+Second+Brain+%7C+Knowledge+Management;%F0%9F%8E%93+Tongji+University+%E2%86%92+Zhejiang+University)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hqy2020&style=flat-square&color=764ba2)](https://github.com/hqy2020)
 
@@ -35,7 +35,7 @@ Junao Shen, **Qiyun Hu**, Tian Feng, Xinyu Wang, Hui Cui, Sensen Wu, Wei Zhang
 
 *AAAI Conference on Artificial Intelligence, 2025*
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobeacrobatreader)](https://www.semanticscholar.org/paper/748a911623b4d1ba787acdb76fabac50f516916d)
+[![Paper](https://img.shields.io/badge/Paper-Google%20Scholar-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/scholar?q=%22In2NeCT%3A+Inter-class+and+Intra-class+Neural+Collapse+Tuning%22)
 
 </td>
 </tr>
@@ -51,7 +51,7 @@ Junao Shen, **Qiyun Hu**, Tian Feng, Xinyu Wang, Hui Cui, Sensen Wu, Wei Zhang
 
 *IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2024*
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobeacrobatreader)](https://doi.org/10.1109/BIBM62325.2024.10822723)
+[![Paper](https://img.shields.io/badge/Paper-Google%20Scholar-blue?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/scholar?q=%22SESAME%3A+Toward+Medical+Image+Segmentation+via+Foundation+Model-assisted+Semi-supervised+Learning%22)
 
 </td>
 </tr>
