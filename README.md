@@ -20,6 +20,37 @@
 
 ---
 
+## 🎯 Currently Focusing On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☕ Java Backend Engineering
+
+- **Spring Boot / Spring Cloud** microservice architecture
+- **MySQL / Redis / Kafka / RabbitMQ** — storage & messaging
+- Distributed systems, high-concurrency design patterns
+- JVM tuning & performance optimization
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Agent Development
+
+- **RAG** (Retrieval-Augmented Generation) pipelines
+- **MCP** (Model Context Protocol) tool integration
+- LLM application development & prompt engineering
+- Obsidian + LLM — building a personal second brain
+
+</td>
+</tr>
+</table>
+
+> 🔍 **Spring 2025** — Looking for **Java Backend** / **AI Application** engineering positions. Open to roles that bridge backend infrastructure with LLM-powered products.
+
+---
+
 ## Selected Publications
 
 <table>
@@ -65,11 +96,13 @@ Junao Shen, **Qiyun Hu**, Tian Feng, Xinyu Wang, Hui Cui, Sensen Wu, Wei Zhang
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [OpeningCloud Blog](https://openingcloud-blog.hqy200091.workers.dev/)
-Personal blog built with **Astro 5 + Tailwind CSS** — zero JS by default, blazing fast static site deployed on Cloudflare Pages.
+### 🌐 [OpeningCloud Blog](https://blog.oc.slgneon.cn/)
+Personal blog built with **React 18 + TypeScript + Django 5 + DRF**, containerized with Docker Compose + Nginx on Alibaba Cloud ECS.
 
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 [📖 Source Code](https://github.com/hqy2020/openingcloud-blog)
 
@@ -91,28 +124,51 @@ Classic 3D vision & medical imaging papers I studied during my research. Now foc
 
 ## Tech Stack
 
-**Research & AI**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Development**
+**Java Backend**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHRleHQgeD0iMiIgeT0iMTgiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IndoaXRlIj5NQjwvdGV4dD48L3N2Zz4=&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+**AI & Research**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Tools & Infra**
+**DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=hqy2020&theme=darkhub&no-frame=true&no-bg=true&column=7" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=hqy2020&theme=flat&no-frame=true&no-bg=true&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=hqy2020&theme=darkhub&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+</picture>
+</div>
 
 ---
 
@@ -120,43 +176,20 @@ Classic 3D vision & medical imaging papers I studied during my research. Now foc
 
 <div align="center">
 
-<!-- Profile Details (full width) -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/0-profile-details.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-light/0-profile-details.svg" />
-<img src="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/0-profile-details.svg" alt="Profile Details" width="100%" />
-</picture>
-
 <table>
 <tr>
 <td>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/3-stats.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-light/3-stats.svg" />
-<img src="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/3-stats.svg" alt="GitHub Stats" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hqy2020&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hqy2020&show_icons=true&theme=default&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=hqy2020&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
 </picture>
 </td>
 <td>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/1-repos-per-language.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-light/1-repos-per-language.svg" />
-<img src="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/1-repos-per-language.svg" alt="Repos per Language" />
-</picture>
-</td>
-</tr>
-<tr>
-<td>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/2-most-commit-language.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-light/2-most-commit-language.svg" />
-<img src="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/2-most-commit-language.svg" alt="Most Commit Language" />
-</picture>
-</td>
-<td>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/4-productive-time.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-light/4-productive-time.svg" />
-<img src="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/4-productive-time.svg" alt="Productive Time" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hqy2020&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hqy2020&layout=compact&theme=default&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hqy2020&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
 </picture>
 </td>
 </tr>
@@ -185,25 +218,13 @@ Classic 3D vision & medical imaging papers I studied during my research. Now foc
 
 ---
 
-## Activity Graph
-
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hqy2020&theme=tokyo-night&hide_border=true&bg_color=00000000" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hqy2020&theme=minimal&hide_border=true" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hqy2020&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Activity Graph" />
-</picture>
-</div>
-
----
-
 <div align="center">
 
 ### Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hqy200091@163.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/启云-胡-394b80223/)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://openingcloud-blog.hqy200091.workers.dev/)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.oc.slgneon.cn/)
 
 <br/>
 
