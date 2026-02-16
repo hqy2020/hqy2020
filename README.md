@@ -160,18 +160,6 @@ Classic 3D vision & medical imaging papers I studied during my research. Now foc
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=hqy2020&theme=darkhub&no-frame=true&no-bg=true&column=7" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=hqy2020&theme=flat&no-frame=true&no-bg=true&column=7" />
-<img src="https://github-profile-trophy.vercel.app/?username=hqy2020&theme=darkhub&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</picture>
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -180,16 +168,16 @@ Classic 3D vision & medical imaging papers I studied during my research. Now foc
 <tr>
 <td>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hqy2020&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hqy2020&show_icons=true&theme=default&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api?username=hqy2020&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/3-stats.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-light/3-stats.svg" />
+<img src="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/3-stats.svg" alt="GitHub Stats" />
 </picture>
 </td>
 <td>
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hqy2020&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hqy2020&layout=compact&theme=default&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hqy2020&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/1-repos-per-language.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-light/1-repos-per-language.svg" />
+<img src="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/1-repos-per-language.svg" alt="Repos per Language" />
 </picture>
 </td>
 </tr>
