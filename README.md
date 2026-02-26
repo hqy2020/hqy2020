@@ -33,11 +33,10 @@ hqy2020 ~ $ whoami
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| ⭐ **[OpeningCloud Blog](https://blog.oc.slgneon.cn)** | React · Django · Docker | Full-stack personal blog — [source](https://github.com/hqy2020/openingcloud-blog) |
+| ⭐ **[OpeningCloud Blog](https://blog.oc.slgneon.cn/)** | React · Django · Docker | Full-stack personal blog — [source](https://github.com/hqy2020/openingcloud-blog) |
 | [CAgent](https://github.com/hqy2020/CAgent) | Java · RAG · Milvus | Personal AI knowledge hub with multi-channel retrieval & interview prep |
 | [bagu](https://github.com/hqy2020/bagu) | Spring Boot · AI | Interview prep platform with AI scoring & streaming output |
 | [LeetCode Trainer](https://github.com/hqy2020/algorithm-trainer) | Java · React | Algorithm training dashboard with dual-mode practice |
-| [Medical Seg (AAAI'25)](https://github.com/hqy2020/2025_HQY_Thesis) | Python · ViT | Medical image segmentation, published at AAAI 2025 |
 
 ---
 
@@ -67,6 +66,6 @@ hqy2020 ~ $ whoami
 
 <div align="center">
 
-[Blog](https://blog.oc.slgneon.cn) · [Email](mailto:hqy200091@163.com) · [LinkedIn](https://www.linkedin.com/in/启云-胡-394b80223/)
+[Blog](https://blog.oc.slgneon.cn/) · [Email](mailto:hqy200091@163.com) · [LinkedIn](https://www.linkedin.com/in/启云-胡-394b80223/)
 
 </div>
