@@ -43,7 +43,23 @@ hqy2020 ~ $ whoami
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hqy2020&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=issues&rank_icon=github)](https://github.com/hqy2020)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/3-stats.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-light/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/stats-dark/3-stats.svg" alt="GitHub Stats" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/hqy2020/hqy2020/dist/github-snake.svg" />
+</picture>
 
 </div>
 
