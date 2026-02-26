@@ -33,7 +33,7 @@ hqy2020 ~ $ whoami
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| [Ragent](https://github.com/nageoffer/ragent) | Java · RAG · LLM | Enterprise-grade RAG knowledge base with multi-source vector retrieval |
+| ⭐ **[OpeningCloud Blog](https://blog.oc.slgneon.cn)** | React · Django · Docker | Full-stack personal blog — [source](https://github.com/hqy2020/openingcloud-blog) |
 | [CAgent](https://github.com/hqy2020/CAgent) | Java · RAG · Milvus | Personal AI knowledge hub with multi-channel retrieval & interview prep |
 | [bagu](https://github.com/hqy2020/bagu) | Spring Boot · AI | Interview prep platform with AI scoring & streaming output |
 | [LeetCode Trainer](https://github.com/hqy2020/algorithm-trainer) | Java · React | Algorithm training dashboard with dual-mode practice |
