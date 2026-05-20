@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=480&lines=Java+Backend+Engineer;AI+%26+LLM+Builder;Alibaba+Cloud+Alumni;AAAI+2025+Researcher)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=560&lines=Java+Backend+Engineer;AI+%26+LLM+Builder;Zhejiang+University+M.S.+(2026);Tongji+University+B.Eng.+(2023))
 
 </div>
 
@@ -8,10 +8,11 @@
 
 ```bash
 hqy2020 ~ $ whoami
-> CS Grad (2025) | Java Backend + AI/LLM Stack
-> Distributed systems @ Alibaba Cloud internship
-> Published @ AAAI'25 & IEEE BIBM'24 — Medical Image AI
-> Currently: open to backend / AI engineering roles ☕
+> M.S. in Software Engineering @ Zhejiang University (2026)
+> B.Eng. in Software Engineering @ Tongji University (2023)
+> CAD&CG State Key Lab
+> Java Backend + AI/LLM Builder
+> Writing at: https://blog.openingclouds.xyz/
 ```
 
 ---
@@ -33,9 +34,9 @@ hqy2020 ~ $ whoami
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| ⭐ **[OpeningCloud Blog](https://blog.oc.slgneon.cn/)** | React · Django · Docker | Full-stack personal blog — [source](https://github.com/hqy2020/openingcloud-blog) |
-| [CAgent](https://github.com/hqy2020/CAgent) | Java · RAG · Milvus | Personal AI knowledge hub with multi-channel retrieval & interview prep |
-| [bagu](https://github.com/hqy2020/bagu) | Spring Boot · AI | Interview prep platform with AI scoring & streaming output |
+| ⭐ **[OpeningCloud Blog](https://blog.openingclouds.xyz/)** | React · Django · Docker | Personal blog on backend, AI, and knowledge systems — [source](https://github.com/hqy2020/openingcloud-blog) |
+| [CAgent](https://github.com/hqy2020/CAgent) | Java · RAG · Milvus | Personal AI knowledge hub with multi-channel retrieval and interview prep |
+| [bagu](https://github.com/hqy2020/bagu) | Spring Boot · AI | Interview prep platform with AI scoring and streaming output |
 | [LeetCode Trainer](https://github.com/hqy2020/algorithm-trainer) | Java · React | Algorithm training dashboard with dual-mode practice |
 
 ---
@@ -66,6 +67,6 @@ hqy2020 ~ $ whoami
 
 <div align="center">
 
-[Blog](https://blog.oc.slgneon.cn/) · [Email](mailto:hqy200091@163.com) · [LinkedIn](https://www.linkedin.com/in/启云-胡-394b80223/)
+[Blog](https://blog.openingclouds.xyz/) · [Email](mailto:hqy200091@163.com) · [LinkedIn](https://www.linkedin.com/in/%E5%90%AF%E4%BA%91-%E8%83%A1-394b80223/)
 
 </div>
